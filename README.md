@@ -58,6 +58,13 @@
 
 ---
 
+## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AthavanVelmurugan/AthavanVelmurugan/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## ✨ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote"/>
@@ -75,3 +82,4 @@
   <img src="https://komarev.com/ghpvc/?username=AthavanVelmurugan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
