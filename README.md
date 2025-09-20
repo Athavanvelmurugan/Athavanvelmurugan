@@ -4,9 +4,8 @@
 
 🚀 **Software Developer | Java • SQL • DSA**
 
-<p align="center">
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73A07&width=500&lines=Java+%7C+SQL+%7C+DSA;Backend+Developer;Lifelong+Learner" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -20,7 +19,7 @@
 
 ## 💻 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,sql,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,vscode" />
 </p>
 
 ---
