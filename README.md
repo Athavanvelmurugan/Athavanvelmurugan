@@ -25,8 +25,9 @@
 ---
 
 ## 📊 Leetcode Stats
+
 <p align="center">
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Athavan05?theme=light&font=Asar&ext=heatmap)
+  <img src="https://leetcard.jacoblin.cool/Athavan05?theme=dark&font=Asar&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 
