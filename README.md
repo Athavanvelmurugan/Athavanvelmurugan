@@ -24,6 +24,14 @@
 
 ---
 
+## 📊 Leetcode Stats
+<p align="center">
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Athavan05?theme=light&font=Asar&ext=heatmap)
+</p>
+
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AthavanVelmurugan&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
